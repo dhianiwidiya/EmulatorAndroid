@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0133fbbe-7b67-4496-83c8-ebba397066bd" name="Changes" comment="masih error di input phone number">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AutomateCalculatorAPK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InstallAppInfoAPK.java" afterDir="false" />
+    <list default="true" id="0133fbbe-7b67-4496-83c8-ebba397066bd" name="Changes" comment="automate calculator java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AutomateCalculatorAPK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AutomateCalculatorAPK.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,14 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EmulatorAndroid">
+  <component name="RunManager" selected="Application.AutomateCalculatorAPK">
+    <configuration name="AutomateCalculatorAPK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AutomateCalculatorAPK" />
+      <module name="newproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmulatorAndroid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EmulatorAndroid" />
       <module name="newproject" />
@@ -61,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AutomateCalculatorAPK" />
         <item itemvalue="Application.EmulatorAndroid" />
         <item itemvalue="Application.InstallApkAndroid" />
       </list>
@@ -82,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668673391898</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Install App info aplication">
+      <created>1668674576472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668674576472</updated>
+    </task>
+    <task id="LOCAL-00003" summary="automate calculator java">
+      <created>1668674601679</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668674601679</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="masih error di input phone number" />
-    <option name="LAST_COMMIT_MESSAGE" value="masih error di input phone number" />
+    <MESSAGE value="Install App info aplication" />
+    <MESSAGE value="automate calculator java" />
+    <option name="LAST_COMMIT_MESSAGE" value="automate calculator java" />
   </component>
 </project>
